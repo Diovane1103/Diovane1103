@@ -9,7 +9,7 @@ I'm a BackEnd developer with a lot of doubts and dreams, hope one day become a r
 * 🌍  I'm based in Porto Alegre, Rio Grande do Sul, Brazil
 * ✉️  You can contact me at [diovane.rossato@gmail.com](mailto:diovane.rossato@gmail.com)
 * 🧠  I'm learning React and Next.js
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborate on Projects
 * ⚡  I'm super hero, you just don't know which one :D
 
 ### Skills
