@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Diovane Rossato
 =======================================================================================================================================
 
-BackEnd Developer
+BackEnd Developer at Ilegra 
 -----------------
 
 I'm a BackEnd developer with a lot of doubts and dreams, hope one day become a really good software engineer and be hired for a Big Tech Company. Lover of Java, Javascript, Nodejs and a lot more. After my current studies I intend to focus on python as the next language.
@@ -10,10 +10,8 @@ I'm a BackEnd developer with a lot of doubts and dreams, hope one day become a r
 * ✉️  You can contact me at [diovane.rossato@gmail.com](mailto:diovane.rossato@gmail.com)
 * 🧠  I'm learning React and Next.js
 * 🤝  I'm open to collaborate on Projects
-* ⚡  I'm super hero, you just don't know which one :D
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -31,7 +29,6 @@ I'm a BackEnd developer with a lot of doubts and dreams, hope one day become a r
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Diovane1103" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/diovane-monteiro-rossato/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
@@ -43,10 +40,6 @@ I'm a BackEnd developer with a lot of doubts and dreams, hope one day become a r
 <a href="http://www.github.com/Diovane1103"><img src="https://github-readme-stats.vercel.app/api?username=Diovane1103&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Diovane1103's GitHub stats" /></a>
 
 <a href="http://www.github.com/Diovane1103"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Diovane1103&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Diovane1103/happy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Diovane1103&repo=happy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Diovane1103/my-app-ideas" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Diovane1103&repo=my-app-ideas&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
